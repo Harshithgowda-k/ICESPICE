@@ -1,0 +1,5 @@
+Pillow
+streamlit
+mysql.connector 
+streamlit_lottie
+streamlit_option_menu
